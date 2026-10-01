@@ -434,4 +434,23 @@ body {
     flex-direction: column;
     gap: 12px;
   }
+
+  .music-controls {
+    gap: 10px;
+  }
+
+  .btn-play {
+    width: 26px;
+    height: 26px;
+    font-size: 12px;
+  }
+
+  .btn-action {
+    font-size: 12px;
+    padding: 2px;
+  }
+
+  .search-box h3 {
+    font-size: 0.85rem;
+  }
 }
